@@ -1,4 +1,4 @@
-📚 AI PDF Study Assistant
+# 📚 AI PDF Study Assistant
 
 🚀 Overview
 
@@ -10,19 +10,19 @@ The system uses Retrieval-Augmented Generation (RAG) to provide context-aware re
 
 ✨ Key Features
 
-*💬 Chat with PDF - Ask questions about uploaded documents and receive context-aware answers powered by Groq AI.
+* 💬 Chat with PDF - Ask questions about uploaded documents and receive context-aware answers powered by Groq AI.
 
-*📝 Smart Notes Generation - Automatically generate clean and structured study notes from PDF content.
+* 📝 Smart Notes Generation - Automatically generate clean and structured study notes from PDF content.
 
-*🃏 Flashcards Generator - Convert important concepts into question-answer flashcards for efficient revision.
+* 🃏 Flashcards Generator - Convert important concepts into question-answer flashcards for efficient revision.
 
-*❓ AI Quiz Generator - Generate multiple-choice questions from study materials for self-assessment.
+* ❓ AI Quiz Generator - Generate multiple-choice questions from study materials for self-assessment.
 
-*📥 Download Support - Export generated notes and flashcards for offline learning.
+* 📥 Download Support - Export generated notes and flashcards for offline learning.
 
-*⚡ Retrieval Augmented Generation (RAG) - Uses FAISS vector search and Sentence Transformers to retrieve the most relevant document chunks before generating responses.
+* ⚡ Retrieval Augmented Generation (RAG) - Uses FAISS vector search and Sentence Transformers to retrieve the most relevant document chunks before generating responses.
 
-*🎨 User Friendly Interface - Built with Streamlit for a clean, responsive, and interactive experience.
+* 🎨 User Friendly Interface - Built with Streamlit for a clean, responsive, and interactive experience.
 
 ---
 
