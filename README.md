@@ -51,31 +51,31 @@ The system uses Retrieval-Augmented Generation (RAG) to provide context-aware re
 
 🚀 Quick Start
 
-# Clone the Repository
+* Clone the Repository
 
-cd AI-PDF-Study-Assistant
-
-
-# Create Virtual Environment
-
-python -m venv venv
+     cd AI-PDF-Study-Assistant
 
 
-# Activate Environment
+* Create Virtual Environment
 
-venv\Scripts\activate
-
-source venv/bin/activate
+     python -m venv venv
 
 
-# Install Dependencies
+* Activate Environment
 
-pip install -r requirements.txt
+     venv\Scripts\activate
+
+     source venv/bin/activate
 
 
-# Run the Application
+* Install Dependencies
 
-streamlit run app.py
+     pip install -r requirements.txt
+
+
+* Run the Application
+
+     streamlit run app.py
 
 
 
