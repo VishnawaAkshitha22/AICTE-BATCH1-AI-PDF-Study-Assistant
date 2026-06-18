@@ -9,4 +9,3 @@ fpdf
 graphviz
 torch
 transformers
-numpy
