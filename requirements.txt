@@ -1,0 +1,12 @@
+streamlit
+groq
+PyPDF2
+sentence-transformers
+langchain-community
+langchain-core
+faiss-cpu
+fpdf
+graphviz
+torch
+transformers
+numpy
