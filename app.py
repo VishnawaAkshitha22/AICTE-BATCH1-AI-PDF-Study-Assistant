@@ -26,14 +26,13 @@ Upload a PDF and generate:
 - ❓ Quiz
 """
 )
-'''
- If you are running this project locally,
- replace the below code with:
 
-client = Groq(
-     api_key="YOUR_GROQ_API_KEY"
- )
- '''
+# If you are running this project locally,
+# replace the below code with:
+
+#client = Groq(
+#     api_key="YOUR_GROQ_API_KEY"
+# )
 
 client = Groq(
     api_key=st.secrets["GROQ_API_KEY"]
