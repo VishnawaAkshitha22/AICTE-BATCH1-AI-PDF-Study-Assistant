@@ -7,7 +7,22 @@ A professional AI-powered study assistant built with **Streamlit**, **Groq LLM**
 The system uses Retrieval-Augmented Generation (RAG) to provide context-aware responses directly from uploaded study materials.
 
 ---
+Demo of AI PDF Study Assistant:
 
+
+
+
+https://github.com/user-attachments/assets/fc00d51e-1ff3-4509-a67a-5237f2c8b292
+
+
+
+
+
+
+
+
+
+---
 ✨ Key Features
 
 * 💬 Chat with PDF - Ask questions about uploaded documents and receive context-aware answers powered by Groq AI.
