@@ -7,6 +7,10 @@ A professional AI-powered study assistant built with **Streamlit**, **Groq LLM**
 The system uses Retrieval-Augmented Generation (RAG) to provide context-aware responses directly from uploaded study materials.
 
 ---
+
+Deployment URL: https://aicte-batch1-ai-pdf-study-assistantgit-tblc6e7bi89nq9ekbeffmm.streamlit.app/
+
+---
 Demo of AI PDF Study Assistant:
 
 
